@@ -1,0 +1,24 @@
+[
+  {
+    "id": 3,
+    "userId": 4,
+    "month": 4,
+    "year": 2023,
+    "daysWorked": 8,
+    "salary": 600,
+    "expenses": 57,
+    "notes": "عليك العمل اكثر",
+    "timestamp": 1757978065501
+  },
+  {
+    "id": 4,
+    "userId": 5,
+    "month": 12,
+    "year": 2025,
+    "daysWorked": 7,
+    "salary": 500,
+    "expenses": 67,
+    "notes": "kkb",
+    "timestamp": 1757980538660
+  }
+]
