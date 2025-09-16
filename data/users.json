@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "code": "admin123",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Elbad",
+    "code": "08605be6699f524a0ff56e80db35c00e31ce395399135754ff88f80619cff1b7",
+    "role": "worker"
+  }
+]
